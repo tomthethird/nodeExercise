@@ -1,0 +1,31 @@
+[
+    {
+    	"id": 1,
+    	"artist": "sud",
+    	"song": "di makatulog"
+	},
+
+	{
+        "id": 2,
+        "artist": "munimuni",
+        "song": "kalachuchi"
+    },
+
+    {
+        "id": 3,
+        "artist": "leanne and naara",
+        "song": "never made it far"
+    },
+
+	{
+        "id": 4,
+        "artist": "hey june!",
+        "song": "panahon"
+    },
+
+	{
+        "id": 5,
+        "artist": "zild",
+        "song": "kyusi"
+    }
+]
